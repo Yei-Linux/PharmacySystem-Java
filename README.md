@@ -18,19 +18,19 @@ HOME:
 When we login then go into the Home,this is difirent for 3 perfils:Admin,Digitizer,Grocer.
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/1.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/1.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/2.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/2.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/1.1.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/1.1.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/1.2.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/1.2.png">
 </p>
 
 EMPLOYEE:
@@ -38,7 +38,7 @@ EMPLOYEE:
 We can see all the employees of the Campus Pharmacy,also we can insert,edit and delete:
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/3.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/3.png">
 </p>
 
 PROVIDER:
@@ -46,11 +46,11 @@ PROVIDER:
 We can see all the providers of the Pharmacy,also we can insert,edit and delete:
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/4.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/4.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/5.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/5.png">
 </p>
 
 PRODUCTS:
@@ -58,11 +58,11 @@ PRODUCTS:
 We can see all the Products of the Pharmacy,also we can insert,edit and delete:
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/6.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/6.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/7.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/7.png">
 </p>
 
 CAMPUS PHARMACY:
@@ -70,11 +70,11 @@ CAMPUS PHARMACY:
 We can see all the Campus of the Pharmacy,also we can insert,edit and delete:
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/8.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/8.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/9.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/9.png">
 </p>
 
 CLIENT:
@@ -82,11 +82,11 @@ CLIENT:
 We can see all the Clients of the Pharmacy,also we can insert,edit and delete:
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/10.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/10.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/11.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/11.png">
 </p>
 
 INVENTORY:
@@ -94,11 +94,11 @@ INVENTORY:
 We can see all the Products of the Pharmacy(depending of Campus):
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/12.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/12.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/13.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/13.png">
 </p>
 
 EMPLOYEE REPORTS:
@@ -106,11 +106,11 @@ EMPLOYEE REPORTS:
 We can see all the Employees of the Pharmacy(depending of Campus):
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/14.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/14.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/15.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/15.png">
 </p>
 
 CLIENT REPORTS:
@@ -118,7 +118,7 @@ CLIENT REPORTS:
 We can see all the Clients of the Pharmacy:
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/16.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/16.png">
 </p>
 
 SHOPPING:
@@ -126,19 +126,19 @@ SHOPPING:
 We can shop to the Providers adding into the Shopping Cart the Products we want:
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/17.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/17.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/18.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/18.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/19.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/19.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/20.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/20.png">
 </p>
 
 SALES:
@@ -146,28 +146,28 @@ SALES:
 We can Sell to the Clients adding into the Shopping Cart the Products they want to shop:
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/21.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/21.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/22.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/22.png">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/23.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/23.png">
 </p>
 
 SALES REPORTS:
 --------------
 We can see the List of all sales.
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/24.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/24.png">
 </p>
 
 SHOPPING REPORTS:
 --------------
 We can see the List of all shopping.
 <p align="center">
-	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/25.PNG">
+	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/25.png">
 </p>
 
