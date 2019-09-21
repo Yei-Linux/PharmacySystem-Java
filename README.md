@@ -171,3 +171,6 @@ We can see the List of all shopping.
 	<img src="https://github.com/Yei-Linux/PharmacySystem-Java/blob/master/imgs/25.png">
 </p>
 
+FINALLY...:
+-----------
+I made this project the last year,It was funny to do it.
